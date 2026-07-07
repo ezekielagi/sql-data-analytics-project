@@ -4,3 +4,7 @@ This repository contains a collection of SQL scripts demonstrating various analy
 
 
 All Courses and their materials are completely free
+
+
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
